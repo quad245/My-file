@@ -1,0 +1,148 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'BIZ UDMincho', serif;
+  background-color: #EFFFFD;
+
+}
+
+h1 {
+  font-size: 90px;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: white;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Rouge Script', cursive;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Merienda', cursive;
+  color: #11999E;
+}
+h5{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.top-container- {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2G1gWc1oamhjZweTJwoPl8tT1bAt3C5QxiuOTjzFMf9i8CjqBolTG7jBRtBydDB5uAI&usqp=CAU);
+  position: relative;
+  background-color: #FFFBE9;
+  padding-top: 25px;
+  text-align: left;
+}
+
+.middle-container {
+  margin: 50px 0;
+  padding-top: 25px;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 2px 0 5px;
+}
+.copyright{
+  color: #FFFBE9;
+  font-size: 75%;
+}
+.web {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-img {
+  width: 50;
+  margin: 100px auto 100px auto;
+}
+
+.skills-2-img {
+  width: 100%;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #66BFBF 6px;
+  border-bottom: none;
+  width: 7%;
+  margin: 50px auto;
+}
+
+.skills-img {
+  width: 50%;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+
+.card{
+  width: 20%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.card-2{
+  width: 20%;
+  text-align:center;
+  line-height: 2;
+}
+.card-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.card-2-img{
+  width: 45%;
+  float: left;
+  margin-right: 10px;
+}
+.img-row{
+  margin-top: 30px;
+  padding: 2px 0 5px;
+}
+.img-1{
+  width:75%;
+    height: 5%;
+}
+.img-2{
+  width:75%;
+  height: 5%;
+}
+.img-3{
+  width:75%;
+    height: 5%;
+}
+
+@media (max-width: 1028px){
+
+}

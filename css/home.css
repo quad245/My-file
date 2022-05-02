@@ -1,0 +1,55 @@
+body{
+font color: #40514E;
+ margin: 0;
+  text-align: center;
+  font-family: 'BIZ UDMincho', serif;}
+
+.middle-container{
+  font color: #40514E;
+   margin: 0;
+    text-align: center;
+    font-family: 'BIZ UDMincho', serif;
+    padding: 2px 0 2px;
+
+
+  }
+
+.top-img{
+  width: 60%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+h1 {
+  font-size: 90px;
+
+  font-family: 'Sacramento', cursive;
+  color: white;
+
+}
+
+h2 {
+font-family: 'Russo One', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 24px;
+
+}
+
+p {
+  font-family: 'Merienda', cursive;
+  color: #40514E;
+}
+h5{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;}
+  .bottom-container {
+    background-color: #66BFBF;
+    padding: 2px 0 5px;
+  }
+  @media (max-width: 1028px){
+
+  }
